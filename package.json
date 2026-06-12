@@ -1,0 +1,9 @@
+{
+  "name": "bible-manna-api",
+  "version": "1.0.0",
+  "description": "Bible Manna Telegram Bot API",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
